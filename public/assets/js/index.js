@@ -48,7 +48,6 @@ const deleteNote = (id) =>
     headers: {
       'Content-Type': 'application/json',
     },
-
   });
 
 const renderActiveNote = () => {
@@ -85,7 +84,7 @@ const handleNoteDelete = (e) => {
 
   const note = e.target;
   const noteId = JSON.parse(note.parentElement.getAttribute('data-note')).id;
-  
+
   if (activeNote.id === noteId) {
     activeNote = {};
   }
@@ -173,20 +172,6 @@ const renderNoteList = async (notes) => {
 
 // Gets notes from the db and renders them to the sidebar
 const getAndRenderNotes = () => getNotes().then(renderNoteList);
-/* const getAndRenderNotes = () => {
-  getNotes()
-    .then((response) => response.json())
-    .then((data) => {
-      notes = data;
-      renderNoteList(Object.values(notes));
-    })
-    .catch((error) => {
-      console.error('Error retrieving notes:', error);
-    });
-}; */
-
-
-
 
 if (window.location.pathname === '/notes') {
   saveNoteBtn.addEventListener('click', handleNoteSave);
