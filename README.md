@@ -48,9 +48,12 @@ Email me if you wish to contribute
 
 
 ## ScreenShot
-Screenshot 2023-06-08 233615.png
-Screenshot 2023-06-08 233630.png
-Screenshot 2023-06-08 233712.png
+![Screenshot 2023-06-08 233615](https://github.com/Meera-Mohanan/Note-Taker/assets/126405858/17a732f6-5f2c-4f6f-a314-bca7481c025a)
+
+![Screenshot 2023-06-08 233630](https://github.com/Meera-Mohanan/Note-Taker/assets/126405858/555bfb0e-fb4b-44bd-92eb-450192c5dbac)
+
+![Screenshot 2023-06-08 233712](https://github.com/Meera-Mohanan/Note-Taker/assets/126405858/c67f4802-5564-41a3-8881-b0d862720884)
+
 ## URL
 1. The URL of the Deployed Heroku.
 
