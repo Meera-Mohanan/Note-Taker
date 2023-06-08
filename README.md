@@ -53,8 +53,8 @@ Email me if you wish to contribute
 ![Screenshot 2023-06-08 233712](https://github.com/Meera-Mohanan/Note-Taker/assets/126405858/c67f4802-5564-41a3-8881-b0d862720884)
 
 ## URL
-1. The URL of the Deployed Heroku.
-https://drive.google.com/file/d/1L_U03TQyexxjH8MglTZG0ypGPzt5-41z/view
+1. The URL of the Deployed Heroku: Facing login issues with Heorku. Hence sharing video link till Heroku access becomes active.
+https://drive.google.com/file/d/1K-s678rfjOgx06aBygbtLp4Nnzx1EMQ1/view
 
 2. The URL of the GitHub repository.
 https://github.com/Meera-Mohanan/Note-Taker
