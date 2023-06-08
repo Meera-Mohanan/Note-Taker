@@ -48,14 +48,14 @@ const { v4: uuidv4 } = require('uuid');
     router.delete('/notes/:id', (req, res) => {
         console.log("-- Delete")
         // fetch id to delete
-        let delNoteId = req.params.id.toString();
+        //let delNoteId = req.params.id.toString();
         console.log(`\n Delete note with id: ${delNoteId}`);
 
         //read data fron db.json file
         let data = JSON.parse(fs.readFileSync('./db/db.json', 'utf8'));
 
         //filter data to get notes except the one to delete
-        const newData = data.filter( note => note.id.toString() !== delNoteId );
+        //const newData = data.filter( note => note.id.toString() !== delNoteId );
 
         // Write new data to 'db.json' file
         fs.writeFileSync('./db/db.json', JSON.stringify(newData));
