@@ -10,8 +10,10 @@ This application called Note Taker enables users that to write and save notes. T
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributors](#contributors)
+  * [Contributing](#contributing)
   * [Questions](#questions)
+  * [Screenshot](#screenshot)
+  * [URL](#url)
 
 ## Installation
 
@@ -42,10 +44,6 @@ Email me if you wish to contribute
 
 ## Questions
   If you have any questions about the repo, please open an issue or contact me directly at meera.mohanan@gmail.com. you can find more of my work at [Meera-Mohanan](https://github.com/Meera-Mohanan)
-
-
-## Mock Up
-
 
 ## ScreenShot
 ![Screenshot 2023-06-08 233615](https://github.com/Meera-Mohanan/Note-Taker/assets/126405858/17a732f6-5f2c-4f6f-a314-bca7481c025a)
